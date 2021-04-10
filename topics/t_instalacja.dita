@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="c_instalacja">
+    <title>Instalacja</title>
+    <body>
+        <p>Instalator programu GstarCAD 8 można pobrać bezpośrednio ze strony internetowej <xref
+                href="http://gstarcad.pl/" format="html" scope="external">www.gstarcad.pl</xref>.
+            Instalator programu GstarCAD 8 poprowadzi Cię krok, po kroku przez proces instalacji.
+            Program rozróżni automatycznie sposób rejestracji w zależności od tego czy użytkownik
+            skorzysta z klucza sprzętowego czy numeru seryjnego licencji elektronicznej. Poniżej
+            zostały wyszczegulnione kolejno etapy procesu instalacji: </p>
+        <p>1.Kliknij dwukrotnie na pobrany plik wykonywalny .exe w celu uruchomienia instalatora
+            programu GstarCAD 8. Kliknij przycisk "<b>Dalej</b>" aby kontynuować proces instalacji.
+            Patrz Rysunek 1-1.</p>
+        <p><image href="../images/rys1-1.JPG" placement="inline" id="image_wdt_pfc_gpb">
+                <alt>Rys. 1-1.</alt>
+            </image></p>
+        <p>Rys.1-1.</p>
+        <p>2. Wyświetlone zostanie okno dialogowe zawierające informacje dotyczące warunków
+            licencji. Po zapoznaniu się z nimi zaznacz opcję "<b>Akceptuję warunki Umowy
+                licencyjnej</b>" i kliknij przycisk "<b>Dalej</b>" aby kontynuować. Patrz Rysunek
+            1-2.</p>
+        <p><image href="../images/rys1-2.JPG" id="image_yb2_kgc_gpb">
+                <alt>Rys. 1-2.</alt>
+            </image></p>
+        <p>Rys.1-2.</p>
+        <p>3. W następnym oknie instalatora wprowadź swoje dane użytkownika i kliknij przycisk
+                "<b>Dalej</b>". Patrz Rysunek 1-3.</p>
+        <image href="../images/rys1-3.JPG" id="image_tld_ngc_gpb">
+            <alt>Rys. 1-3.</alt>
+        </image>
+        <p>Rys.1-3.</p>
+        <p>4. Określ ścieżkę katalogu, do którego instalator ma zainstalować pliki programu i
+            kliknij przycisk "<b>Dalej</b>". Patrz Rysunku 1-4.</p>
+        <image href="../images/rys1-4.JPG" id="image_pvf_4gc_gpb">
+            <alt>Rys. 1-4.</alt>
+        </image>
+        <p>Rys.1-4.</p>
+        <p>5. W oknie "<b>Opcje instalacji</b>" możesz zaznaczyć dodatkową opcję VBA. Następnie
+            kliknij przycisk "<b>Dalej</b>".</p>
+        <p>6. Instalatar jest już gotowy do rozpoczęcia procesu instalacji programu. Jeżeli chcesz
+            sprawdzić lub zmienić którekolwiek z wybranych ustawień kliknij przycisk
+            "<b>Wstecz</b>". W celu rozpoczęcia instalacji kliknij przycisk "<b>Instaluj</b>". Patrz
+            Rysunek 1-5.</p>
+        <image href="../images/rys1-5.JPG" id="image_aqk_pgc_gpb">
+            <alt>Rys. 1-5.</alt>
+        </image>
+        <p>Rys.1-5.</p>
+        <p>7. Instalacja programu GstarCAD 8 przebiegła pomyślnie. Kliknij przycisk "<b>Zakończ</b>"
+            aby zakończyć pracę instalatora. Patrz Rysunek 1-6</p>
+        <p><image href="../images/rys1-6.JPG" id="image_xsg_rgc_gpb">
+                <alt>Rys. 1-6.</alt>
+            </image></p>
+        <p>Rys.1-6.</p>
+        <p><i>[Źródło: gstarcad.pl]</i></p>
+    </body>
+</topic>

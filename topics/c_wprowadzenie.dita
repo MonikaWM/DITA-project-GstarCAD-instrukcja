@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="wprowadzenie">
+    <title>Wprowadzenie</title>
+    <body>
+        <p>Program GstarCAD 8 jest zupełnie nową platformą CAD, stworzoną z myślą o potrzebach
+            wymagających użytkowników. Program został napisany w oparciu o zupełnie nowy, sprawnie
+            funkcjonujący silnik, wspierający wiele innowacyjnych technologii, co przekłada się
+            bezpośrednio na niemal 5 krotny wzrost szybkości wykonywania operacji graficznych,
+            poprawę wydajności oraz znacznie mniejsze obciążenie pamięci niż miało to miejsce w
+            poprzednich wersjach. Nowa budowa kodu programu znacząco wpłynęła również na stabilność
+            wykonywanych operacji. Czyni to z programu GstarCAD 8 narzędzie godzące wydajność i dużą
+            szybkość działania z wykonywaniem wielu skomplikowanych operacji na dużych rysunkach, co
+            wyróżnia stabilność jego pracy na tle innych rozwiązań typu CAD. Ten dział poświęcony
+            jest rozpoczęciu pracy z programem GstarCAD 8, wyjaśnia proces instalacji oraz dostarcza
+            podstawowe informacje na temat użytkowania programu.</p>
+        <p><image href="../images/1.wymagania_sprzetowe.JPG" id="image_sbj_jrc_gpb"/></p>
+        <p><i>[Źródło: gstarcad.pl]</i></p>
+    </body>
+</topic>

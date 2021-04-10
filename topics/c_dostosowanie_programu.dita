@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="c_dostosowanie_programu">
+    <title>Dostosowanie programu</title>
+    <body>
+        <p>W programie GstarCAD 8 znajduje się wiele różnych elementów środowiska pracy, które
+            możesz dostosować do własnych potrzeb.</p>
+        <p><b>Ustawienia opcji interfejsu</b></p>
+        <p>W oknie dialogowym "Opcje", możesz zmienić wiele ustawień interfejsu i środowiska
+            rysowania.</p>
+        <p><b>Ustawienia modyfikacji interfejs</b></p>
+        <p>Automatyczny zapis (w zakładce Otwórz i zapisz): Określa odstępy czasu po jakich rysunek
+            ma być automatycznie zapisywany/ Aby użyć tej opcji, zaznacz Automatyczny zapis w
+            zakładce Otwórz i zapisz oraz wprowadź wartość czasu w minutach.</p>
+        <ul id="ul_ijg_3jc_gpb">
+            <li>Kolory (zakładka Ekran): Pozwala określić kolor tła używanego w Układzie, zakładki
+                Modelu, kolor podpowiedzi i celownika.</li>
+            <li>Czcionki (zakładka Ekran): Pozwala na zmianę czcionek używanych w oknie i oknie
+                tekstowym. Ustawienia te nie zmieniają tekstu na rysunku.</li>
+            <li>Ścieżka wyszukiwania (zakładka Plik): Określa ścieżkę do wyszukiwania plików
+                pomocniczych rysowania, takich jak czcionki, rysunki, typy linii i wzory
+                kreskowania.</li>
+        </ul>
+        <p><b>Zapisywanie i przywracanie profili</b></p>
+        <p>Program GstarCAD 8 pozwala na tworzenie profili dla różnych użytkowników lub projektów
+            oraz dzielenie się nimi poprzez import i eksport plików profili. Domyślnie, bieżące
+            opcje są przechowywane w profilu o nazwie Domyślny. Nazwa bieżącego profilu, a także
+            nazwa bieżącego rysunku, jest wyświetlana w oknie dialogowym "Opcje".</p>
+        <p>GstarCAD 8 przechowuje informacje o profilu w rejestrze systemowym i zapisuje je jako
+            plik tekstowy (plik ARG), a także organizuje podstawowe dane i zachowuje zmiany w
+            rejestrze zgodnie z wymaganiami.</p>
+        <p>Jeżeli dokonasz zmian w bieżącym profilu podczas trwania sesji programu i chcesz zapisać
+            zmiany w pliku ARG, konieczne jest wyeksportowanie profilu. Gdy wyeksportujesz profil o
+            bieżącej nazwie, program GstarCAD zaktualizuje plik ARG z nowymi ustawieniami. Możesz
+            ponownie zaimportować plik profilu w programie, w celu zaktualizowania ustawień
+            profilu.</p>
+        <p><b>Palety narzędzi</b></p>
+        <p>Palety narzędzi znajdują się w kartach wewnątrz okna "Palety narzędzi". Możesz utworzyć
+            narzędzie poprzez przeciągnięcie obiektu na paletę narzędzi. W programie GstarCAD, bloki
+            i odnośniki zewnętrzne (pliki xref) mogą być przeciągnięte na paletę narzędzi. Nowo
+            wstawione narzędzie będzie miało takie same właściwości wewnątrz rysunku. Możesz również
+            utworzyć, usunąć, zmienić nazwę i spersonalizować panele poprzez kliknięcie na nie
+            prawym przyciskiem myszy. Aby otworzyć panele narzędzi użyj skrótu CTRL+3 lub wprowadź
+            polecenie TOOLPALETTES.</p>
+        <p><b>Centrum projektowania</b></p>
+        <p>W oknie Centrum projektowania, możesz określić dostęp do rysunków, bloków, stylów tekstu
+            i innych zawartości rysowania:<ul id="ul_sn2_rjc_gpb">
+                <li>Wybierz plik rysunku znajdujący się na komputerze lub dysku sieciowym.</li>
+                <li>Zobacz tabele definicji nazwanych obiektów, a następnie wstaw, załącz, skopiuj
+                    lub wstaw definicje do bieżącego rysunku.</li>
+                <li>Utwórz skrót do rysunków i folderów, z których często korzystasz.</li>
+                <li>Dodaj zawartość taką jak pliki xref czy bloki do rysunku.</li>
+                <li>Przeciągaj rysunki i bloki do palety narzędzi aby uzyskać do nich wygodny
+                    dostęp.</li>
+            </ul></p>
+        <p><i>Zakładka folderów</i>: Następujące ikony są wyświetlane w zakładkach: sieć i komputer,
+            dyski komputera, foldery, rysunki i powiązane pliku wsparcia, pliki xref, Układ i
+            nazwane obiekty, załączone bloki, warstwy, typy linii, style tekstu i style wymiaru
+            wewnątrz rysunku.</p>
+        <p><i>Otwieranie rysunków</i>: Bieżąca lista otwartych rysunków. Jeżeli klikniesz na tabele
+            definicji, możesz wczytać zawartość wewnątrz obszaru zawartości.</p>
+        <p><i>Historia</i>: Lista poprzednio otworzonych plików. Jeżeli dwukrotnie klikniesz na plik
+            rysunku na liście, możesz wczytać zawartość wewnątrz obszaru zawartości.</p>
+        <p><i>Ulubione</i>: Jeżeli posiadasz zawartość, do której potrzebujesz szybkiego dostępu,
+            Centrum projektowania pozwala na wyszukiwanie potrzebnej zawartości.Gdy zaznaczysz typ
+            zawartości, kliknij dwukrotnie prawym przyciskiem myszy i dodaj go do Ulubionych. W
+            folderze ulubione zapisywane są skróty do zawartości znajdującej się na dysku lub dysku
+            sieciowym. Oryginalny plik lub folder nie zostaje przeniesiony. Wszystkie stworzone
+            skróty zostają przechowane w folderze Ulubione.</p>
+        <p><i>[Źródło: gstarcad.pl]</i></p>
+    </body>
+</topic>
